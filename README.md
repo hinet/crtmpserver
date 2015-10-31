@@ -60,7 +60,8 @@ http://www.longtailvideo.com/players/jw-flv-player
  jwplayer('myplayer').setup({       
  file: '20051210-w50s.flv',       
  width: '640',        
- height: '480'     }); 
+ height: '480',
+ key:'NVuUKso6HKJ6NSZzYRM3u/IKFGWiHrTjwvp4OA=='}); 
 </script>
 </body>
 </html>
